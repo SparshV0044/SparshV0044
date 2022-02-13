@@ -3,7 +3,7 @@
 - 🤖 I’m currently learning  AI/ML
 - 👯 I’m looking to collaborate on  Hackthon Projects
 - 🥲 I’m looking for help in Intergration of ML into websites
-- 📫 How to reach me: @itsmevohra
+- 📫 How to reach me: sv5459@srmist.edu.in
 
 
 
